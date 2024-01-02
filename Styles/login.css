@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.intro img{
+    margin: 80px 550px 0px;
+}
+.intro h2{
+    margin: 0px 420px 40px;
+}
+
+.form{
+    margin: 80px 550px;
+    border: 1px solid black;
+    border-radius: 4%;
+    box-shadow: 3px 3px 5px;
+    padding: 25px;
+}
+
+.form input{
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5%;
+    width: 207px;
+}
+
+.login_button button{
+    background-color: black;
+    color: aliceblue;
+    height: 28px;
+    width: 207px;
+    margin-left: 2px;
+    border-radius: 5px;
+}
+
+.create_new_button button{
+    background-color: rgb(106, 134, 255);
+    height: 28px;
+    margin-left: 37px;
+}
